@@ -8,7 +8,7 @@ sdks=( \
 	iphoneos iphoneos iphoneos \
 )
 
-min_sdk=7.0.0
+min_sdk=8.0.0
 
 function build_lib {
 
