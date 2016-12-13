@@ -38,3 +38,7 @@ doc/Doxyfile
 doc/doxygen-build.stamp
 lib/test_sharedbook
 test/test
+
+bin
+bin_ios
+macosx/build
