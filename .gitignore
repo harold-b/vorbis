@@ -3,6 +3,7 @@
 *.la
 .libs
 .deps
+*.db
 aclocal.m4
 configure
 Makefile
